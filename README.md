@@ -10,58 +10,57 @@ This project is a data-driven personal website designed to showcase my expertise
 ---
 
 
-## Project Structure 
+## 📁 Project Structure
 
+```bash
 profileravi/
 ├── README.md
-├── assets
-│   ├── css
-│   │   ├── style1.css
-│   │   └── style2.css
-│   ├── data
-│   │   ├── activities.json
-│   │   ├── certificates.json
-│   │   ├── education.json
-│   │   ├── experience.json
-│   │   ├── other.json
-│   │   ├── projects.json
-│   │   ├── skills.json
-│   │   ├── soft.json
-│   │   └── tools.json
-│   ├── document
-│   │   └── Ravi Vishwakarma _ Data Scientist Intern _ Resume .pdf
-│   ├── img
-│   │   ├── aks.webp
-│   │   ├── bg.gif
-│   │   ├── cert.webp
-│   │   ├── cert1.webp
-│   │   ├── cert2.webp
-│   │   ├── cert3.webp
-│   │   ├── pm.webp
-│   │   ├── project1.jpg
-│   │   ├── project2.jpg
-│   │   ├── project3.jpg
-│   │   ├── project4.jpg
-│   │   ├── project5.webp
-│   │   └── resume.jpg
-│   └── js
-│       ├── script.js
-│       └── transition.js
-├── blog
-│   ├── blog.html
-│   └── blog_og
-│       ├── I
-│       └── blog.webp
+├── assets/
+│   ├── css/
+│   │   ├── style1.css
+│   │   └── style2.css
+│   ├── data/
+│   │   ├── activities.json
+│   │   ├── certificates.json
+│   │   ├── education.json
+│   │   ├── experience.json
+│   │   ├── other.json
+│   │   ├── projects.json
+│   │   ├── skills.json
+│   │   ├── soft.json
+│   │   └── tools.json
+│   ├── document/
+│   │   └── Ravi Vishwakarma _ Data Scientist Intern _ Resume .pdf
+│   ├── img/
+│   │   ├── aks.webp
+│   │   ├── bg.gif
+│   │   ├── cert.webp
+│   │   ├── cert1.webp
+│   │   ├── cert2.webp
+│   │   ├── cert3.webp
+│   │   ├── pm.webp
+│   │   ├── project1.jpg
+│   │   ├── project2.jpg
+│   │   ├── project3.jpg
+│   │   ├── project4.jpg
+│   │   ├── project5.webp
+│   │   └── resume.jpg
+│   └── js/
+│       ├── script.js
+│       └── transition.js
+├── blog/
+│   ├── blog.html
+│   └── blog_og/
+│       ├── I
+│       └── blog.webp
 ├── index.html
-├── og
-│   ├── img.webp
-│   └── og.webp
-├── resume
-│   └── resume.html
+├── og/
+│   ├── img.webp
+│   └── og.webp
+├── resume/
+│   └── resume.html
 ├── robots.txt
 └── sitemap.xml
-
-
 
 
 ## 📌 The Problem
