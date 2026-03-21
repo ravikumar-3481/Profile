@@ -1,7 +1,7 @@
 # 🚀 AI & Data Science Portfolio | Ravi Kumar Vishwakarma
 
 🔗 **Live Demo:** https://profileravi.netlify.app
-🔗 **Live Demo:** 
+🔗 **Live Demo:** https://profileravi.vercel.app
 
 Welcome to my professional portfolio!  
 This project is a data-driven personal website designed to showcase my expertise in **Data Science, AI Engineering, and Web Development**. It is built with a strong focus on **performance, scalability, and clean data architecture**.
