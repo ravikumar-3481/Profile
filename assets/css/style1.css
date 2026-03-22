@@ -246,12 +246,7 @@ section {
     transform: perspective(500px) rotateX(5deg);
     transform-origin: top;
     opacity: 0.6;
-    animation: gridFade 8s ease-in-out infinite;
-}
-
-@keyframes gridFade {
-    0%, 100% { opacity: 0.4; }
-    50% { opacity: 0.7; }
+    
 }
 
 .grid-pattern-container::after {
