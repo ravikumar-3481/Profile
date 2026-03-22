@@ -148,7 +148,7 @@ async function loadProjects() {
                 : projects.filter(p => p.category === filter);
 
             container.innerHTML = filtered.map(p => `
-                <div class="project-card reveal">
+                <div class="project-card">
                     <div class="project-img">
                         <img src="assets/img/${p.thumbnail}" loading="lazy" alt="${p.title}">
                         <div class="project-tag">${p.result}</div>
